@@ -1,7 +1,7 @@
 /**
  * @name Flow from array to crypto
  * @description Detects flow from Array to createDeciper, update of final method of crypto module
- * @author Fabian Froh
+ * @author Stephen Nwagwughiagwu
  * @kind path-problem
  * @id js/array-to-crypto
  * @security-severity 5.0
